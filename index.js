@@ -17,7 +17,8 @@ module.exports = function (config) {
       "lab": 5000,
       "terminal": 10000,
       "container": 500,
-      "nuker": 10000
+      "nuker": 10000,
+      "factory": 10000
     }
 
     config.common.constants.BODYPART_COST = {
